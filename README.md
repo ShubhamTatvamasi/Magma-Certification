@@ -143,19 +143,12 @@ Q: API request
 
 PROBLEM: What are the steps to trigger the Swagger UI to create an API request? (Drag and drop the black boxes to the corresponding command)
 
-steps
----|
-1
-2
-3
-4
-
-commands
----|
-Click on the API trigger action button e.g. GET, PUT, DELETE etc.
-Put in the required inputs and click execute.
-Click on try it out button on the right hand side.
-Open Swagger UI, then go to section your are interested in, e.g. EnodeBs.
+commands | steps
+---|---
+Click on the API trigger action button e.g. GET, PUT, DELETE etc. | 2
+Put in the required inputs and click execute. | 4
+Click on try it out button on the right hand side. | 3
+Open Swagger UI, then go to section your are interested in, e.g. EnodeBs. | 1
 
 Q: Orc8r services
 
