@@ -34,7 +34,7 @@ Q: Select the correct sequence to configure the QoS policy in the AGW
 - [ ] Assign policy to subscribers → configure rating group → configure policy rule
 - [ ] Add a subscriber → configure rating group → assign rating group
 - [ ] Assign policy to subscribers → configure rating group
-- [ ] Configure rating group → configure policy rule with the rating group → assign Policy to subscriber
+- [x] Configure rating group → configure policy rule with the rating group → assign Policy to subscriber
 
 Q: To override the UE requested APN with a network specified APN what .yml file do you need to alter?
 - [x] /etc/magma/mme.yml
