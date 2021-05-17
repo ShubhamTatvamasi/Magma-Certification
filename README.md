@@ -194,6 +194,12 @@ Q: Which NMS path will allow you to configure the access gateway through the JSO
 - [ ] Configure → Network → AGW → Select AGW → Edit JSON
 - [ ] Traffic → Gateway → Select AGW → Edit JSON
 
+Q: How do you find all subscribers connected to a particular gateway?
+- [ ] Traffic → Equipment → Subscriber Table
+- [ ] Equipment → View Subscriber Metrics Button → Enter Gateway ID
+- [ ] Traffic → Gateway ID → Subscriber Table
+- [ ] Equipment → Click on Gateway ID under “Gateways” → Subscriber Table
+
 Q: Which of the following paths in NMS will allow you to reboot a managed enodeB?
 - [ ] Call Tracing → Start a new Trace → Reboot
 - [ ] Equipment → eNodeB Tab → Select the eNB serial number → Reboot
