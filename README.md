@@ -84,7 +84,7 @@ Q: Which two of the following services will impact the users service while resta
 - [ ] pipelined
 - [ ] Eventd
 
-Q: What information will the following script tell you about your network: journalctl -u magma@dnsd -f?
+Q: What information will the following script tell you about your network: **journalctl -u magma@dnsd -f**?
 - [ ] How many devices are connected to your AGW
 - [ ] The number of devices on your eth0 interface
 - [ ] If an IP address has been assigned to your eNB
