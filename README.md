@@ -14,7 +14,7 @@ Sections
 Q: Once you have deployed your access gateway, what script should you run as a part of the post installation check?
 - [ ] agw_install_check.sh
 - [ ] check_agw_status.sh
-- [ ] agw_post_install.sh
+- [x] agw_post_install.sh
 - [ ] Agw_overview.sh
 
 Q: Which commands help diagnose managed eNB and the AGW connection?
