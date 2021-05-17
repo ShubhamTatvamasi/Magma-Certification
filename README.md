@@ -51,7 +51,7 @@ Q: Which file path will show the configuration of the AGW?
 Q: What is the python script to validate the connection between your access gateway and the Orc8r?
 - [ ] orc8r_connection.py
 - [ ] agw_setup_check.sh
-- [ ] checkin_cli.py
+- [x] checkin_cli.py
 - [ ] agw_checkin.py
 
 Q: What file would contain a log of all services running on the AGW?
