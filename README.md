@@ -69,7 +69,7 @@ Q: What file would contain a log of all services running on the AGW?
 Q: Which python command will you use to capture S1 AP signaling between the AGW and eNB?
 - [ ] s1aptests/test.py
 - [ ] s1ap/sctp.py
-- [ ] sudo tcpdump -i any sctp -w /path
+- [x] sudo tcpdump -i any sctp -w /path
 - [ ] sudo tcpdump -i any port 48080 -w /path
 
 Q: For unmanaged eNB configurations, what do you need to configure in the AGW and what information should match between the AGW and eNB?
