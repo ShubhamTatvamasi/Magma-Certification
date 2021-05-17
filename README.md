@@ -1,5 +1,12 @@
 # Magma-Certification
 
+[AGW Questions]()
+[AGW Drag and Drop]()
+[Orc8r Questions]()
+[Orc8r Drag and Drop]()
+[NMS Questions]()
+
+
 ### AGW Questions
 
 Q: Once you have deployed your access gateway, what script should you run as a part of the post installation check?
