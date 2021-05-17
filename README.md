@@ -219,15 +219,15 @@ Q: Which of the following paths in NMS will allow you to reboot a managed enodeB
 - [ ] Traffic → select → COMMANDS tab → Reboot
 
 Q: What information can you configure for a subscriber in NMS?
-- [ ] Subscriber Name
+- [x] Subscriber Name
 - [ ] Device Type
-- [ ] Auth Key
-- [ ] Auth OPC
-- [ ] Service
-- [ ] Data Plan
-- [ ] Active APNs
+- [x] Auth Key
+- [x] Auth OPC
+- [x] Service
+- [x] Data Plan
+- [x] Active APNs
 - [ ] Inactive APNs
-- [ ] Active Policies
+- [x] Active Policies
 
 Q: How do you configure an APN in NMS?
 - [ ] Equipment → AGW → APN
@@ -242,7 +242,7 @@ Q: What is the path to configure alerts in NMS?
 - [ ] NMS UI → Equipment → Alerts → +
 
 Q: Which alert channel(s) does NMS support?
-- [ ] Slack
-- [ ] Email
-- [ ] Webhook
+- [x] Slack
+- [x] Email
+- [x] Webhook
 - [ ] Discord
