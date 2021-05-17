@@ -131,7 +131,7 @@ Q: Which of the following does the Orc8r support?
 - [ ] Event and log aggregation via Fluentd and Elasticsearch Kibana
 - [ ] Config streaming for gateways, subscribers, policies, etc.
 - [ ] Device state reporting (metrics + status)
-- [ ] All of the above
+- [x] All of the above
 
 Q: What is the Kubernetes command to list all pods running in production on the Orc8r?
 - [ ] kubectl config view
