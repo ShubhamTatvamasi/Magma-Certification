@@ -169,21 +169,13 @@ Q: Certificates
 
 PROBLEM: Drag and drop the certificate name to the purpose of each certificate below.
 
-certificates
----|
-Fluentd Certificate (fluentd.key, fluentd.pem)
-Admin Certificate (admin_operator.key.pem, admin_operator.pem)
-Bootstrapper Key (bootstrapper.key)
-Controller Certificate (controller.key, controller.crt)
-Certifier Certificate (certifier.key, certifier.pem)
-
-purpose
----|
-Orc8r's server-validation certifcate, signed by rootCA.pem
-admin operator certificates for full access to northbound interface
-Allowing gateways to securely send logs
-Orc8r's client-validation certificate (root of trust)
-Private key for controller's bootstrapper service, used in gateway bootstrapping challenges
+purpose | certificate
+---|---
+Orc8r's server-validation certifcate, signed by rootCA.pem | Controller Certificate (controller.key, controller.crt)
+admin operator certificates for full access to northbound interface | Admin Certificate (admin_operator.key.pem, admin_operator.pem)
+Allowing gateways to securely send logs | Fluentd Certificate (fluentd.key, fluentd.pem)
+Orc8r's client-validation certificate (root of trust) | Certifier Certificate (certifier.key, certifier.pem)
+Private key for controller's bootstrapper service, used in gateway bootstrapping challenges | Bootstrapper Key (bootstrapper.key)
 
 ### NMS Questions
 
