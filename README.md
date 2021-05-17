@@ -143,7 +143,7 @@ Q: Which URL should you use to access the Swagger API UI if you are on Magma v1.
 - [ ] https://api.yoursubdomain.yourdomain.com/swagger-api/ui
 - [ ] https://api.yoursubdomain.yourdomain.com/api/ui-v1
 - [ ] https://api.yoursubdomain.yourdomain.com/apidocs/v1/
-- [ ] https://api.yoursubdomain.yourdomain.com/swagger/v5/ui
+- [x] https://api.yoursubdomain.yourdomain.com/swagger/v5/ui
 
 
 ### Orc8r Drag and Drop
