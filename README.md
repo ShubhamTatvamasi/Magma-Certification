@@ -226,7 +226,7 @@ Q: What information can you configure for a subscriber in NMS?
 Q: How do you configure an APN in NMS?
 - [ ] Equipment → AGW → APN
 - [ ] Network → APNs → Create New APN
-- [ ] Traffic → APNs → Create New APN
+- [x] Traffic → APNs → Create New APN
 - [ ] Network → Policies → Create New → APN
 
 Q: What is the path to configure alerts in NMS?
