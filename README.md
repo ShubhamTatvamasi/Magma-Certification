@@ -154,17 +154,6 @@ Q: Orc8r services
 
 PROBLEM: Match each Orc8r service and component to its definition. (Drag and drop the black boxes to the corresponding definition)
 
-Orc8r service
----|
-accessd
-tenants
-analytics
-ctraced
-state
-obsidian
-metricsd
-dispatcher
-
 definition | service
 ---|---
 stores, manages and verifies operator identity objects and their rights to access (read/write) entities | accessd
