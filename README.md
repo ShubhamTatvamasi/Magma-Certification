@@ -109,7 +109,7 @@ Q: What information will the following script tell you about your network: **jou
 - [ ] A list of static IPs available to use for your network
 
 Q: Select the correct set of steps to disable the DHCP service on your access gateway for the eNB:
-- [ ] Network Management → Equipment → Gateways → Select the Gateway → Config → RAN → Edit → Disable eNodeB DHCP service
+- [x] Network Management → Equipment → Gateways → Select the Gateway → Config → RAN → Edit → Disable eNodeB DHCP service
 - [ ] Network Management → Traffic → Gateways → Select the Gateway → Config → RAN → Edit → Disable eNodeB DHCP service
 - [ ] Network Management → Equipment → Orc8r Server → Select the Gateway → Config → RAN → Edit → Disable eNodeB DHCP service
 - [ ] Network Management → Select the Gateway → Config → Radio Setup → Edit → Disable eNodeB DHCP service
