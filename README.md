@@ -200,6 +200,12 @@ Q: How do you find all subscribers connected to a particular gateway?
 - [ ] Traffic → Gateway ID → Subscriber Table
 - [ ] Equipment → Click on Gateway ID under “Gateways” → Subscriber Table
 
+Q: How do you add a new query to Grafana?
+- [ ] (NMS) Metrics → Grafana → Create → Dashboard → Add query
+- [ ] (NMS) Traffic → Grafana → Network → Dashboard → Add query
+- [ ] (NMS) Traffic → Prometheus → Grafana → Dashboard → Add query
+- [ ] (NMS) Metrics → Prometheus → Grafana → Dashboard → Add New Dashboard
+
 Q: Which of the following paths in NMS will allow you to reboot a managed enodeB?
 - [ ] Call Tracing → Start a new Trace → Reboot
 - [ ] Equipment → eNodeB Tab → Select the eNB serial number → Reboot
