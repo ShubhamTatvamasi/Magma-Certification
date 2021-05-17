@@ -157,6 +157,40 @@ Put in the required inputs and click execute.
 Click on try it out button on the right hand side.
 Open Swagger UI, then go to section your are interested in, e.g. EnodeBs.
 
+Q: Orc8r services
+
+PROBLEM: Match each Orc8r service and component to its definition. (Drag and drop the black boxes to the corresponding definition)
+
+Orc8r service
+---|
+accessd
+tenants
+analytics
+ctraced
+state
+obsidian
+metricsd
+dispatcher
+
+definitions
+---|
+stores, manages and verifies operator identity objects and their rights to access (read/write) entities
+provides CRUD interface for managing NMS tenants.
+verifies API request access control and reverse proxies requests to Orchestrator services with the appropriate API handlers
+maintains SyncRPC connections (HTTP2 bidirectional streams) with gateways
+collects runtime metrics from gateways and Orchestrator
+handles gateway call traces, exposing this functionality via a CRUD API
+maintains reported state from devices in the network
+periodically fetches and aggregates metrics for all deployed Orchestrator modules, exporting the aggregations to Prometheus
+
+
+
+
+
+
+
+
+
 ### NMS Questions
 
 Q: Which of the following paths in NMS will allow you to reboot a managed enodeB?
