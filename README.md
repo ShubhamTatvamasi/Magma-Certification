@@ -8,7 +8,6 @@ Sections
 [Orc8r Drag and Drop](#orc8r-drag-and-drop)
 [NMS Questions](#nms-questions)
 
-
 ### AGW Questions
 
 Q: Once you have deployed your access gateway, what script should you run as a part of the post installation check?
