@@ -44,7 +44,7 @@ Q: To override the UE requested APN with a network specified APN what .yml file 
 
 Q: What information can you find in enodebd logs?
 - [ ] S1 signaling
-- [ ] TR-069
+- [x] TR-069
 - [ ] SCTP
 - [ ] GTP-U
 
