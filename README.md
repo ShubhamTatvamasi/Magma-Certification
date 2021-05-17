@@ -79,8 +79,8 @@ Q: What is all the information you need to configure in control_proxy.yml?
 - [ ] rootCA.pem certificate path
 
 Q: Which two of the following services will impact the users service while restarting an AGW not in stateless mode:
-- [ ] magmad
-- [ ] mme
+- [x] magmad
+- [x] mme
 - [ ] pipelined
 - [ ] Eventd
 
