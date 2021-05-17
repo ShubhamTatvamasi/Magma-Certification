@@ -42,6 +42,12 @@ Q: To override the UE requested APN with a network specified APN what .yml file 
 - [ ] /etc/magma/apn-setup.yml
 - [ ] /etc/magma/mme-apn.yml
 
+Q: What information can you find in enodebd logs?
+- [ ] S1 signaling
+- [ ] TR-069
+- [ ] SCTP
+- [ ] GTP-U
+
 Q: What command will provide you with the local subscriber data?
 - [ ] subscriber.py get IMSI < 15 digit IMSI >
 - [ ] subscriber_cli.py get IMSI < 15 digit IMSI >
