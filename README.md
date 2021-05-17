@@ -67,7 +67,7 @@ Q: What is the python script to validate the connection between your access gate
 - [ ] agw_checkin.py
 
 Q: What file would contain a log of all services running on the AGW?
-- [ ] /var/log/syslog
+- [x] /var/log/syslog
 - [ ] /var/log/mme.log
 - [ ] /var/log/magma
 - [ ] var/log/enodebd.log
