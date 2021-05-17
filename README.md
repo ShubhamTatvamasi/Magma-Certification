@@ -75,8 +75,8 @@ Q: Which python command will you use to capture S1 AP signaling between the AGW 
 Q: There are no metrics showing in NMS, which two services in the AGW could this be related to?
 - [ ] Magmad
 - [ ] Sessiond
-- [ ] Eventd
-- [ ] Metricsd
+- [x] Eventd
+- [x] Metricsd
 
 Q: What is all the information you need to configure in control_proxy.yml?
 - [x] controller address/port, bootstrap address and port, Fluentd address and port, rootCA.pem certificate path
