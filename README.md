@@ -188,6 +188,12 @@ Private key for controller's bootstrapper service, used in gateway bootstrapping
 
 ### NMS Questions
 
+Q: Which NMS path will allow you to configure the access gateway through the JSON editor?
+- [ ] Equipment → Gateways → Select AGW → Config → Edit JSON
+- [ ] Network → Gateway → Configure → Select AGW → Edit JSON
+- [ ] Configure → Network → AGW → Select AGW → Edit JSON
+- [ ] Traffic → Gateway → Select AGW → Edit JSON
+
 Q: Which of the following paths in NMS will allow you to reboot a managed enodeB?
 - [ ] Call Tracing → Start a new Trace → Reboot
 - [ ] Equipment → eNodeB Tab → Select the eNB serial number → Reboot
