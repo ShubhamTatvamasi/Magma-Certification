@@ -87,6 +87,26 @@ Q: Select the correct set of steps to disable the DHCP service on your access ga
 
 ### Orc8r Questions
 
+Q: Which of the following does the Orc8r support?
+- [ ] Metrics querying via Prometheus and Grafana
+- [ ] Event and log aggregation via Fluentd and Elasticsearch Kibana
+- [ ] Config streaming for gateways, subscribers, policies, etc.
+- [ ] Device state reporting (metrics + status)
+- [ ] All of the above
+
+Q: What is the Kubernetes command to list all pods running in production on the Orc8r?
+- [ ] kubectl config view
+- [ ] kubectl -n orc8r get pods
+- [ ] kubetctl get services
+- [ ] kubetctl get pv
+
+Q: Which URL should you use to access the Swagger API UI if you are on Magma v1.4?
+- [ ] https://api.yoursubdomain.yourdomain.com/swagger-api/ui
+- [ ] https://api.yoursubdomain.yourdomain.com/api/ui-v1
+- [ ] https://api.yoursubdomain.yourdomain.com/apidocs/v1/
+- [ ] https://api.yoursubdomain.yourdomain.com/swagger/v5/ui
+
+
 ### Orc8r Drag and Drop
 
 ### NMS Questions
