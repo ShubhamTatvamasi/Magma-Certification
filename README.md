@@ -111,6 +111,41 @@ Q: Which URL should you use to access the Swagger API UI if you are on Magma v1.
 
 ### NMS Questions
 
+Q: Which of the following paths in NMS will allow you to reboot a managed enodeB?
+- [ ] Call Tracing → Start a new Trace → Reboot
+- [ ] Equipment → eNodeB Tab → Select the eNB serial number → Reboot
+- [ ] Traffic → edit → COMMANDS tab → Reboot
+- [ ] Traffic → select → COMMANDS tab → Reboot
+
+Q: What information can you configure for a subscriber in NMS?
+- [ ] Subscriber Name
+- [ ] Device Type
+- [ ] Auth Key
+- [ ] Auth OPC
+- [ ] Service
+- [ ] Data Plan
+- [ ] Active APNs
+- [ ] Inactive APNs
+- [ ] Active Policies
+
+Q: How do you configure an APN in NMS?
+- [ ] Equipment → AGW → APN
+- [ ] Network → APNs → Create New APN
+- [ ] Traffic → APNs → Create New APN
+- [ ] Network → Policies → Create New → APN
+
+Q: What is the path to configure alerts in NMS?
+- [ ] NMS UI → Alerts → Alert Rules → +
+- [ ] NMS UI → Alerts → +
+- [ ] NMS UI → Alerts → Receivers → +
+- [ ] NMS UI → Equipment → Alerts → +
+
+Q: Which alert channel(s) does NMS support?
+- [ ] Slack
+- [ ] Email
+- [ ] Webhook
+- [ ] Discord
+
 
 
 
