@@ -25,7 +25,7 @@ Q: Which commands help diagnose managed eNB and the AGW connection?
 - [ ] None of the above
 
 Q: What information do you need from the AGW to configure in Orc8r?
-- [ ] hardware ID, challenge key
+- [x] hardware ID, challenge key
 - [ ] gateway ID, boostraper certificate
 - [ ] eNB and hardware key
 - [ ] rootCA.pem and controller certificate
