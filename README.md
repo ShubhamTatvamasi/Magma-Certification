@@ -236,7 +236,7 @@ Q: How do you configure an APN in NMS?
 - [ ] Network → Policies → Create New → APN
 
 Q: What is the path to configure alerts in NMS?
-- [ ] NMS UI → Alerts → Alert Rules → +
+- [x] NMS UI → Alerts → Alert Rules → +
 - [ ] NMS UI → Alerts → +
 - [ ] NMS UI → Alerts → Receivers → +
 - [ ] NMS UI → Equipment → Alerts → +
