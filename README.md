@@ -178,7 +178,7 @@ stores, manages and verifies operator identity objects and their rights to acces
 provides CRUD interface for managing NMS tenants.
 verifies API request access control and reverse proxies requests to Orchestrator services with the appropriate API handlers
 maintains SyncRPC connections (HTTP2 bidirectional streams) with gateways
-collects runtime metrics from gateways and Orchestrator
+collects runtime metrics from gateways and Orchestrator services
 handles gateway call traces, exposing this functionality via a CRUD API
 maintains reported state from devices in the network
 periodically fetches and aggregates metrics for all deployed Orchestrator modules, exporting the aggregations to Prometheus
