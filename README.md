@@ -183,13 +183,25 @@ handles gateway call traces, exposing this functionality via a CRUD API
 maintains reported state from devices in the network
 periodically fetches and aggregates metrics for all deployed Orchestrator modules, exporting the aggregations to Prometheus
 
+Q: Certificates
 
+PROBLEM: Drag and drop the certificate name to the purpose of each certificate below.
 
+certificates
+---|
+Fluentd Certificate (fluentd.key, fluentd.pem)
+Admin Certificate (admin_operator.key.pem, admin_operator.pem)
+Bootstrapper Key (bootstrapper.key)
+Controller Certificate (controller.key, controller.crt)
+Certifier Certificate (certifier.key, certifier.pem)
 
-
-
-
-
+purpose
+---|
+Orc8r's server-validation certifcate, signed by rootCA.pem
+admin operator certificates for full access to northbound interface
+Allowing gateways to securely send logs
+Orc8r's client-validation certificate (root of trust)
+Private key for controller's bootstrapper service, used in gateway bootstrapping challenges
 
 ### NMS Questions
 
