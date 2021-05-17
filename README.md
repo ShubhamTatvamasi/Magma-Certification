@@ -135,7 +135,7 @@ Q: Which of the following does the Orc8r support?
 
 Q: What is the Kubernetes command to list all pods running in production on the Orc8r?
 - [ ] kubectl config view
-- [ ] kubectl -n orc8r get pods
+- [x] kubectl -n orc8r get pods
 - [ ] kubetctl get services
 - [ ] kubetctl get pv
 
