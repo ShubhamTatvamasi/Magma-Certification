@@ -46,7 +46,7 @@ Q: Which file path will show the configuration of the AGW?
 - [ ] /var/opt/magma/gateway-config.mconfig
 - [ ] /var/opt/magma/
 - [ ] /var/opt/magma/configs/gateway.mconfig
-- [ ] /var/opt/magma/gateway.config
+- [x] /var/opt/magma/gateway.config
 
 Q: What is the python script to validate the connection between your access gateway and the Orc8r?
 - [ ] orc8r_connection.py
