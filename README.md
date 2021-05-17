@@ -1,12 +1,12 @@
 # Magma-Certification
 
-Sections
----|
-[AGW Questions](#agw-questions)
-[AGW Drag and Drop](#agw-drag-and-drop)
-[Orc8r Questions](#orc8r-questions)
-[Orc8r Drag and Drop](#orc8r-drag-and-drop)
-[NMS Questions](#nms-questions)
+. |Sections
+---|---
+01 | [AGW Questions](#agw-questions)
+02 | [AGW Drag and Drop](#agw-drag-and-drop)
+03 | [Orc8r Questions](#orc8r-questions)
+04 | [Orc8r Drag and Drop](#orc8r-drag-and-drop)
+05 | [NMS Questions](#nms-questions)
 
 ### AGW Questions
 
