@@ -198,7 +198,7 @@ Q: How do you find all subscribers connected to a particular gateway?
 - [ ] Traffic → Equipment → Subscriber Table
 - [ ] Equipment → View Subscriber Metrics Button → Enter Gateway ID
 - [ ] Traffic → Gateway ID → Subscriber Table
-- [ ] Equipment → Click on Gateway ID under “Gateways” → Subscriber Table
+- [x] Equipment → Click on Gateway ID under “Gateways” → Subscriber Table
 
 Q: How do you add a new query to Grafana?
 - [ ] (NMS) Metrics → Grafana → Create → Dashboard → Add query
