@@ -50,7 +50,7 @@ Q: What information can you find in enodebd logs?
 
 Q: What command will provide you with the local subscriber data?
 - [ ] subscriber.py get IMSI < 15 digit IMSI >
-- [ ] subscriber_cli.py get IMSI < 15 digit IMSI >
+- [x] subscriber_cli.py get IMSI < 15 digit IMSI >
 - [ ] IMSI.py get IMSI < 15 digit IMSI >
 - [ ] local_subscriber.py get IMSI < 15 digit IMSI >
 
