@@ -1,6 +1,5 @@
 # Magma-Certification
 
-
 ### AGW Questions
 
 Q: Once you have deployed your access gateway, what script should you run as a part of the post installation check?
@@ -87,6 +86,8 @@ Q: Select the correct set of steps to disable the DHCP service on your access ga
 
 Q: File Directories
 
+PROBLEM: Drag the file directories below onto the correlating definition.
+
 directories
 ---|
 /var/opt/magma/tmp/<service_name>.conf
@@ -129,6 +130,24 @@ Q: Which URL should you use to access the Swagger API UI if you are on Magma v1.
 
 ### Orc8r Drag and Drop
 
+Q: API request
+
+PROBLEM: What are the steps to trigger the Swagger UI to create an API request? (Drag and drop the black boxes to the corresponding command)
+
+steps
+---|
+1
+2
+3
+4
+
+commands
+---|
+Click on the API trigger action button e.g. GET, PUT, DELETE etc.
+Put in the required inputs and click execute.
+Click on try it out button on the right hand side.
+Open Swagger UI, then go to section your are interested in, e.g. EnodeBs.
+
 ### NMS Questions
 
 Q: Which of the following paths in NMS will allow you to reboot a managed enodeB?
@@ -165,11 +184,3 @@ Q: Which alert channel(s) does NMS support?
 - [ ] Email
 - [ ] Webhook
 - [ ] Discord
-
-
-
-
-
-
-
-
