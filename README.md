@@ -1,6 +1,8 @@
 # Magma-Certification
 
 
+### AGW Questions
+
 Q: Once you have deployed your access gateway, what script should you run as a part of the post installation check?
 - [ ] agw_install_check.sh
 - [ ] check_agw_status.sh
@@ -79,6 +81,16 @@ Q: Select the correct set of steps to disable the DHCP service on your access ga
 - [ ] Network Management → Traffic → Gateways → Select the Gateway → Config → RAN → Edit → Disable eNodeB DHCP service
 - [ ] Network Management → Equipment → Orc8r Server → Select the Gateway → Config → RAN → Edit → Disable eNodeB DHCP service
 - [ ] Network Management → Select the Gateway → Config → Radio Setup → Edit → Disable eNodeB DHCP service
+
+
+### AGW Drag and Drop
+
+### Orc8r Questions
+
+### Orc8r Drag and Drop
+
+### NMS Questions
+
 
 
 
