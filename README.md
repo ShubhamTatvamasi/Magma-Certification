@@ -208,7 +208,7 @@ Q: How do you add a new query to Grafana?
 
 Q: Which of the following paths in NMS will allow you to reboot a managed enodeB?
 - [ ] Call Tracing → Start a new Trace → Reboot
-- [ ] Equipment → eNodeB Tab → Select the eNB serial number → Reboot
+- [x] Equipment → eNodeB Tab → Select the eNB serial number → Reboot
 - [ ] Traffic → edit → COMMANDS tab → Reboot
 - [ ] Traffic → select → COMMANDS tab → Reboot
 
