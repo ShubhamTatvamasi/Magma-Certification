@@ -143,7 +143,7 @@ Q: API request
 
 PROBLEM: What are the steps to trigger the Swagger UI to create an API request? (Drag and drop the black boxes to the corresponding command)
 
-commands | steps
+command | step
 ---|---
 Click on the API trigger action button e.g. GET, PUT, DELETE etc. | 2
 Put in the required inputs and click execute. | 4
@@ -165,16 +165,16 @@ obsidian
 metricsd
 dispatcher
 
-definitions
----|
-stores, manages and verifies operator identity objects and their rights to access (read/write) entities
-provides CRUD interface for managing NMS tenants.
-verifies API request access control and reverse proxies requests to Orchestrator services with the appropriate API handlers
-maintains SyncRPC connections (HTTP2 bidirectional streams) with gateways
-collects runtime metrics from gateways and Orchestrator services
-handles gateway call traces, exposing this functionality via a CRUD API
-maintains reported state from devices in the network
-periodically fetches and aggregates metrics for all deployed Orchestrator modules, exporting the aggregations to Prometheus
+definition | service
+---|---
+stores, manages and verifies operator identity objects and their rights to access (read/write) entities | accessd
+provides CRUD interface for managing NMS tenants. | tenants
+verifies API request access control and reverse proxies requests to Orchestrator services with the appropriate API handlers | obsidian
+maintains SyncRPC connections (HTTP2 bidirectional streams) with gateways | dispatcher
+collects runtime metrics from gateways and Orchestrator services | metricsd
+handles gateway call traces, exposing this functionality via a CRUD API | ctraced
+maintains reported state from devices in the network | state
+periodically fetches and aggregates metrics for all deployed Orchestrator modules, exporting the aggregations to Prometheus | analytics
 
 Q: Certificates
 
