@@ -16,9 +16,8 @@ Q: Once you have deployed your access gateway, what script should you run as a p
 - [x] agw_post_install.sh
 - [ ] Agw_overview.sh
 
-Incorrect Answers \
 Q: Which commands help diagnose managed eNB and the AGW connection?
-- [ ] ping < eNB IP >
+- [x] ping < eNB IP >
 - [x] sudo tcpdump sctp
 - [x] Sudo enodeb_cli.py get_all_status
 - [ ] iosat -c
