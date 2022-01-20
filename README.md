@@ -16,10 +16,11 @@ Q: Once you have deployed your access gateway, what script should you run as a p
 - [x] agw_post_install.sh
 - [ ] Agw_overview.sh
 
+Incorrect Answers \
 Q: Which commands help diagnose managed eNB and the AGW connection?
 - [ ] ping < eNB IP >
 - [x] sudo tcpdump sctp
-- [ ] Sudo enodeb_cli.py get_all_status
+- [x] Sudo enodeb_cli.py get_all_status
 - [ ] iosat -c
 - [ ] None of the above
 
@@ -56,8 +57,8 @@ Q: What command will provide you with the local subscriber data?
 Q: Which file path will show the configuration of the AGW?
 - [ ] /var/opt/magma/gateway-config.mconfig
 - [ ] /var/opt/magma/
-- [ ] /var/opt/magma/configs/gateway.mconfig
-- [x] /var/opt/magma/gateway.config
+- [x] /var/opt/magma/configs/gateway.mconfig
+- [ ] /var/opt/magma/gateway.config
 
 Q: What is the python script to validate the connection between your access gateway and the Orc8r?
 - [ ] orc8r_connection.py
@@ -83,11 +84,12 @@ Q: For unmanaged eNB configurations, what do you need to configure in the AGW an
 - [ ] eNB ID, eNB Tx/Rx information, Cell ID
 - [ ] TAC, IP, eNB
 
+Incorrect Answer \
 Q: There are no metrics showing in NMS, which two services in the AGW could this be related to?
-- [ ] Magmad
+- [x] Magmad
 - [ ] Sessiond
 - [x] Eventd
-- [x] Metricsd
+- [ ] Metricsd
 
 Q: What is all the information you need to configure in control_proxy.yml?
 - [x] controller address/port, bootstrap address and port, Fluentd address and port, rootCA.pem certificate path
@@ -147,8 +149,8 @@ Q: What is the Kubernetes command to list all pods running in production on the 
 Q: Which URL should you use to access the Swagger API UI if you are on Magma v1.4?
 - [ ] https://api.yoursubdomain.yourdomain.com/swagger-api/ui
 - [ ] https://api.yoursubdomain.yourdomain.com/api/ui-v1
-- [ ] https://api.yoursubdomain.yourdomain.com/apidocs/v1/
-- [x] https://api.yoursubdomain.yourdomain.com/swagger/v5/ui
+- [x] https://api.yoursubdomain.yourdomain.com/apidocs/v1/
+- [ ] https://api.yoursubdomain.yourdomain.com/swagger/v5/ui
 
 
 ### Orc8r Drag and Drop
