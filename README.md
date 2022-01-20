@@ -78,10 +78,9 @@ Q: Which python command will you use to capture S1 AP signaling between the AGW 
 - [x] sudo tcpdump -i any sctp -w /path
 - [ ] sudo tcpdump -i any port 48080 -w /path
 
-Incorrect Answer \
 Q: For unmanaged eNB configurations, what do you need to configure in the AGW and what information should match between the AGW and eNB?
-- [x] Bandwidth, EARFCNDL, Subframe, PCI, TAC, IP Address, Serial Number, Cell ID, Device Class
-- [ ] Cell ID, TAC, IP Address, PLMN
+- [ ] Bandwidth, EARFCNDL, Subframe, PCI, TAC, IP Address, Serial Number, Cell ID, Device Class
+- [x] Cell ID, TAC, IP Address, PLMN
 - [ ] eNB ID, eNB Tx/Rx information, Cell ID
 - [ ] TAC, IP, eNB
 
