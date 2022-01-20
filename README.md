@@ -98,6 +98,7 @@ Q: What is all the information you need to configure in control_proxy.yml?
 - [ ] Bootstrap address and port, Fluentd address and port, rootCA.pem certificate path
 - [ ] rootCA.pem certificate path
 
+Incorrect Answer \
 Q: Which two of the following services will impact the users service while restarting an AGW not in stateless mode:
 - [x] magmad
 - [x] mme
