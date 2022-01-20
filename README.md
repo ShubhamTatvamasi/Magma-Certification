@@ -84,12 +84,11 @@ Q: For unmanaged eNB configurations, what do you need to configure in the AGW an
 - [ ] eNB ID, eNB Tx/Rx information, Cell ID
 - [ ] TAC, IP, eNB
 
-Incorrect Answer \
 Q: There are no metrics showing in NMS, which two services in the AGW could this be related to?
 - [x] Magmad
 - [ ] Sessiond
-- [x] Eventd
-- [ ] Metricsd
+- [ ] Eventd
+- [x] Metricsd
 
 Q: What is all the information you need to configure in control_proxy.yml?
 - [x] controller address/port, bootstrap address and port, Fluentd address and port, rootCA.pem certificate path
